@@ -1,0 +1,6 @@
+framework module Pods_FirebaseIDToken {
+  umbrella header "Pods-FirebaseIDToken-umbrella.h"
+
+  export *
+  module * { export * }
+}
